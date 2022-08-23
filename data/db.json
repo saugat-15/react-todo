@@ -1,0 +1,44 @@
+{
+  "tasks": [
+    {
+      "title": "Publish a new blog",
+      "done": true,
+      "id": 1
+    },
+    {
+      "title": "Buy food for dinner",
+      "done": false,
+      "id": 2
+    },
+    {
+      "title": "Call Marie at 10.00 PM",
+      "done": false,
+      "id": 3
+    },
+    {
+      "title": "Write a react blog post",
+      "done": false,
+      "id": 4
+    },
+    {
+      "title": "Play soccer at 7",
+      "done": "false",
+      "id": 5
+    },
+    {
+      "title": "watch incantation with friends",
+      "done": "false",
+      "id": 6
+    },
+    {
+      "title": "go camping",
+      "done": "false",
+      "id": 7
+    },
+    {
+      "title": "watch friends with friends",
+      "done": "false",
+      "id": 8
+    }
+  ]
+}
