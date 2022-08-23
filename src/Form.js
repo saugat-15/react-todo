@@ -22,7 +22,7 @@ function Form() {
 
     }
 
-    useEffect(handleSubmit, [input])
+    useEffect(handleSubmit, [url])
     return <form>
     <input type="text" className="todo-input" onChange={handleChange} />
         <button onClick={handleSubmit}><i className="fas fa-plus-square"></i></button>
